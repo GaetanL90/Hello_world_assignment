@@ -1,4 +1,4 @@
-## Hello World Flutter Assignment
+## Hello World Flutter Assignment (LAB 2)
 
 This repository contains a simple Flutter “Hello World” application created as an assignment.  
 It displays a centered **“Hello World”** message with a small footer text **“done by Gaetan”** at the bottom of the screen.
